@@ -30,3 +30,6 @@ myCountry.capitalize()
 my_Name.lower()
 my_Name.upper()
 my_Name.swapcase()
+
+# loop
+#for, while, if
