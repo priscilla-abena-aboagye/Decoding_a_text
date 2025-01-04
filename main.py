@@ -31,5 +31,5 @@ my_Name.lower()
 my_Name.upper()
 my_Name.swapcase()
 
-# loop
+# loop. keywords
 #for, while, if
