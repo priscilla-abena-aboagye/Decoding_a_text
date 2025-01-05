@@ -4,7 +4,8 @@ alphabet = "abcdefghijklmnopqrstuvwxyz"
 
 # print(shifted)
 
-for i in myName.lower():
-     index = alphabet.find(i)
-     print(i, index)
+for char in myName.lower():
+     index = alphabet.find(char)
      new_index = index + shift
+     new_char = alphabet[new_index]
+     print(new_char)
