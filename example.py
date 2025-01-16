@@ -11,4 +11,5 @@ for char in myName.lower():
          index = alphabet.find(char)
          new_index = (index + shift) % len(alphabet)
          encrypted_text +=alphabet[new_index]
-     print(f"char: {char} encrypted text: {encrypted_text}")
+print(f"Plain Text: {myName}")
+print(f"char: {char} encrypted text: {encrypted_text}")
