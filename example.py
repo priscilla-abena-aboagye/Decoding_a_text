@@ -6,6 +6,7 @@ encrypted_text = ""
 # print(shifted)
 
 for char in myName.lower():
+     print(char == " ")
      index = alphabet.find(char)
      new_index = index + shift
      encrypted_text +=alphabet[new_index]
