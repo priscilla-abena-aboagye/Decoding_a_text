@@ -17,7 +17,6 @@ def caesar(message, changed):
     print("----------------")
     print(f"Plain Text: {message}")
     print(f"encrypted text: {encrypted_text}")
-    print("------------")
 
 caesar(myName, shift) # calls the function
 caesar(myName, 10)
