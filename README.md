@@ -6,7 +6,7 @@ This project consists of two files:
 1. A file for the basics (`main.py`).
 2. A main Python script (`example.py`).
 
-### Main.py
+# Main.py
 The scripts demonstrate fundamental Python concepts, including:
 - Strings
 - Integers
@@ -68,3 +68,13 @@ Python loops and conditional keywords used in iterations:
 - `for`
 - `while`
 - `if`
+
+# Example.py
+This Python program demonstrates two encryption methods:
+1. Caesar Cipher
+2. Vigenère Cipher
+
+## Overview
+The program includes two main encryption functions:
+- **Caesar Cipher**: This function shifts the letters of a message by a specified number of positions in the alphabet.
+- **Vigenere Cipher**: A more advanced cipher that uses a keyword (key) to shift letters by different amounts depending on the corresponding letter in the key.
