@@ -49,7 +49,7 @@ print(myNumber)
 print(luckyNumber)
 ```
 
-### Indexing (Retrieving Characters from Strings)
+### Indexing
 ```python
 print(my_Name[3])
 ```
@@ -72,7 +72,7 @@ Python loops and conditional keywords used in iterations:
 # Example.py
 This Python program demonstrates two encryption methods:
 1. Caesar Cipher
-2. Vigenère Cipher
+2. Vigenere Cipher
 
 ## Overview
 The program includes two main encryption functions:
