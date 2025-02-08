@@ -32,3 +32,20 @@ myNumber = 14
 luckyNumber = 3
 ```
 
+### Built-in Functions
+```python
+print()
+len(mySchool)
+type(my_Name)
+```
+
+### Arguments
+```python
+print(myAge)
+print(my_Name)
+print(mySchool)
+print(myCountry)
+print(myNumber)
+print(luckyNumber)
+```
+
