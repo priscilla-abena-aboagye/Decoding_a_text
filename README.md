@@ -15,3 +15,20 @@ The scripts demonstrate fundamental Python concepts, including:
 - Indexing
 - Methods
 - Loops and keywords
+
+## Code Breakdown
+
+### Strings
+```python
+my_Name = "Priscilla Abena Aboagye"
+mySchool = "Mfantsiman Girls"
+myCountry = "Ghana"
+```
+
+### Integers
+```python
+myAge = 19
+myNumber = 14
+luckyNumber = 3
+```
+
