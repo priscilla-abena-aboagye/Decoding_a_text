@@ -49,3 +49,22 @@ print(myNumber)
 print(luckyNumber)
 ```
 
+### Indexing (Retrieving Characters from Strings)
+```python
+print(my_Name[3])
+```
+
+### String Methods
+```python
+my_Name.find("r")
+myCountry.capitalize()
+my_Name.lower()
+my_Name.upper()
+my_Name.swapcase()
+```
+
+### Loops and Keywords
+Python loops and conditional keywords used in iterations:
+- `for`
+- `while`
+- `if`
